@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "image": "https://app.gagarin.world/static/media/bnb-chain.098184ac.svg",
+    "title": "BNB Chain",
+    "status": "available",
+    "currency": "BNB",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "OKX Wallet",
+        "image": "https://app.gagarin.world/static/media/okc.28afbef9.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      },
+      {
+        "title": "Trust Wallet",
+        "image": "https://app.gagarin.world/static/media/trust-wallet.c79df491.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://app.gagarin.world/static/media/ethereum-chain.30552f5e.svg",
+    "title": "Ethereum",
+    "status": "available",
+    "currency": "ETH",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "OKX Wallet",
+        "image": "https://app.gagarin.world/static/media/okc.28afbef9.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      },
+      {
+        "title": "Trust Wallet",
+        "image": "https://app.gagarin.world/static/media/trust-wallet.c79df491.svg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://app.gagarin.world/static/media/csc-chain.30fe3229.svg",
+    "title": "CSC",
+    "status": "available",
+    "currency": "CSC",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://app.gagarin.world/static/media/okc-chain.21db4554.svg",
+    "title": "OKC",
+    "status": "available",
+    "currency": "OKC",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "OKX Wallet",
+        "image": "https://app.gagarin.world/static/media/okc.28afbef9.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://app.gagarin.world/static/media/polygon-chain.99f686b7.svg",
+    "title": "Polygon",
+    "status": "available",
+    "currency": "MATIC",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "OKX Wallet",
+        "image": "https://app.gagarin.world/static/media/okc.28afbef9.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      },
+      {
+        "title": "Trust Wallet",
+        "image": "https://app.gagarin.world/static/media/trust-wallet.c79df491.svg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://app.gagarin.world/static/media/brise-chain.fac910a6.svg",
+    "title": "Brise Chain",
+    "status": "available",
+    "currency": "BRISE",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://app.gagarin.world/static/media/caduceus.0a19f75f.svg",
+    "title": "Caduceus",
+    "status": "available",
+    "currency": "CMP",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://app.gagarin.world/static/media/telos.430dc636.png",
+    "title": "Telos",
+    "status": "available",
+    "currency": "TLOS",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://app.gagarin.world/static/media/optimism-logo.5de498fa.svg",
+    "title": "Optimism",
+    "status": "available",
+    "currency": "OP",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://app.gagarin.world/static/media/arbitrum-logo.9a75a59e.svg",
+    "title": "Arbitrum One",
+    "status": "available",
+    "currency": "ARB",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://app.gagarin.world/static/media/arbitrum-nova.7c7d1bfc.svg",
+    "title": "Arbitrum Nova",
+    "status": "available",
+    "currency": "ARB",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "data:image/png;base64,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",
+    "title": "5ire",
+    "status": "coming soon",
+    "currency": "5IRE",
+    "wallets": [
+      {
+        "title": "Metamask",
+        "image": "https://app.gagarin.world/static/media/metamask.d6cecd4d.svg"
+      },
+      {
+        "title": "WalletConnect",
+        "image": "https://app.gagarin.world/static/media/walletconnect.4ac05bd8.svg"
+      }
+    ]
+  }
+]
